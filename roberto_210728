@@ -1,0 +1,17 @@
+#Question 2
+things=["toy","floor","happy","water","violin","guitar"]
+
+#Question 3
+for item in things:
+    print(item)
+
+#Question 4
+for item in things:
+    print(item.upper())
+
+#Question 5
+numbers=[2,78,999,720,23,458,123,451,837,274]
+
+#Question 6
+for item in numbers:
+    print(item)
